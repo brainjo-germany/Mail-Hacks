@@ -1,0 +1,200 @@
+[
+{
+"id": "rogers",
+"nr": 1,
+"autoren": "Todd Rogers, Jessica Lasky-Fink",
+"titel": "Writing for Busy Readers: knappe vs. ausführliche Mail",
+"jahr": 2023,
+"typ": "Feldexperiment",
+"url": "https://behavioralscientist.org/when-writing-for-busy-readers-less-is-more/"
+},
+{
+"id": "boomerang_tips",
+"nr": 2,
+"autoren": "Boomerang",
+"titel": "7 Tips for Getting More Responses to Your Emails (Auswertung von über 40 Mio. Mails)",
+"jahr": 2016,
+"typ": "Firmendaten",
+"url": "https://blog.boomerangapp.com/2016/02/7-tips-for-getting-more-responses-to-your-emails-with-data/"
+},
+{
+"id": "boomerang_anrede",
+"nr": 3,
+"autoren": "Boomerang",
+"titel": "How to Start an Email: An Email Openings Analysis",
+"jahr": 2017,
+"typ": "Firmendaten",
+"url": "https://blog.boomerangapp.com/2017/12/how-to-start-an-email-an-email-openings-analysis/"
+},
+{
+"id": "boomerang_abschluss",
+"nr": 4,
+"autoren": "Boomerang",
+"titel": "Email Sign-offs: Auswertung von 350.000 Mail-Verläufen",
+"jahr": 2017,
+"typ": "Firmendaten",
+"url": "https://blog.boomerangapp.com/?p=4535"
+},
+{
+"id": "langer",
+"nr": 5,
+"autoren": "Ellen Langer, Arthur Blank, Benzion Chanowitz",
+"titel": "The Mindlessness of Ostensibly Thoughtful Action (Kopierer-Studie)",
+"jahr": 1978,
+"typ": "Feldexperiment",
+"url": "https://doi.org/10.1037/0022-3514.36.6.635"
+},
+{
+"id": "grant_gino",
+"nr": 6,
+"autoren": "Adam Grant, Francesca Gino",
+"titel": "A Little Thanks Goes a Long Way",
+"jahr": 2010,
+"typ": "Experiment",
+"url": "https://doi.org/10.1037/a0017935"
+},
+{
+"id": "roghanizad_bohns",
+"nr": 7,
+"autoren": "Mahdi Roghanizad, Vanessa Bohns",
+"titel": "Ask in Person: You're Less Persuasive Than You Think Over Email",
+"jahr": 2017,
+"typ": "Experiment",
+"url": "https://core.ac.uk/download/78048817.pdf"
+},
+{
+"id": "barron_yechiam",
+"nr": 8,
+"autoren": "Greg Barron, Eldad Yechiam",
+"titel": "Private E-Mail Requests and the Diffusion of Responsibility",
+"jahr": 2002,
+"typ": "Experiment",
+"url": "https://hbwatch.blogspot.com/2004/03/why-your-e-mail-requests-are-ignored.html"
+},
+{
+"id": "fillon",
+"nr": 9,
+"autoren": "Adrien Fillon u. a.",
+"titel": "The Effectiveness of the „But-you-are-free“ Technique: Meta-Analysis",
+"jahr": 2023,
+"typ": "Meta-Analyse",
+"url": "https://conferences.lnu.se/index.php/metapsychology/article/view/2640"
+},
+{
+"id": "vertraut",
+"nr": 10,
+"autoren": "EMSC Improvement Center",
+"titel": "Vertrauter vs. unbekannter Absender bei Umfragen unter Rettungsdiensten",
+"jahr": null,
+"typ": "Feldexperiment",
+"url": "https://emscimprovement.center/programs/grants/197/maine-state-partnership/"
+},
+{
+"id": "hubspot",
+"nr": 11,
+"autoren": "HubSpot",
+"titel": "Plain Text vs. HTML Emails: Which Is Better? (A/B-Tests)",
+"jahr": null,
+"typ": "Firmendaten",
+"url": "https://blog.hubspot.com/marketing/plain-text-vs-html-emails-data"
+},
+{
+"id": "gueguen_status",
+"nr": 12,
+"autoren": "Nicolas Guéguen, Céline Jacob",
+"titel": "Solicitation by E-Mail and Solicitor's Status",
+"jahr": 2002,
+"typ": "Feldexperiment",
+"url": "https://doi.org/10.1089/109493102760275626"
+},
+{
+"id": "gueguen_foto",
+"nr": 13,
+"autoren": "Nicolas Guéguen, Patrick Legohérel, Céline Jacob",
+"titel": "Solicitation via E-Mail: Effect of the Solicitor's Picture",
+"jahr": 2003,
+"typ": "Feldexperiment",
+"url": "https://doi.org/10.1037/h0087191"
+},
+{
+"id": "vignovic",
+"nr": 14,
+"autoren": "Jane Vignovic, Lori Foster Thompson",
+"titel": "Tippfehler in Mails und der Eindruck vom Absender",
+"jahr": 2010,
+"typ": "Experiment",
+"url": "https://www.salon.com/2016/04/24/those_little_typos_and_grammar_errors_in_your_emails_make_a_big_impression_partner/"
+},
+{
+"id": "carr",
+"nr": 15,
+"autoren": "Caleb Carr, Chad Stefaniak",
+"titel": "Sent From My iPhone: The Medium and Message as Cues of Sender Professionalism",
+"jahr": 2012,
+"typ": "Experiment",
+"url": "https://doi.org/10.1080/00909882.2012.712707"
+},
+{
+"id": "elliot",
+"nr": 16,
+"autoren": "Andrew Elliot u. a.",
+"titel": "Color and Psychological Functioning: The Effect of Red",
+"jahr": 2007,
+"typ": "Experiment",
+"url": "https://www.apa.org/monitor/may07/seeingred"
+},
+{
+"id": "nadler",
+"nr": 17,
+"autoren": "Janice Nadler",
+"titel": "How Small Talk Can Facilitate E-mail Dealmaking",
+"jahr": 2004,
+"typ": "Experiment",
+"url": "https://core.ac.uk/download/76622531.pdf"
+},
+{
+"id": "backlinko",
+"nr": 18,
+"autoren": "Backlinko, Pitchbox",
+"titel": "We Analyzed 12 Million Outreach Emails",
+"jahr": 2019,
+"typ": "Firmendaten",
+"url": "https://backlinko.com/email-outreach-study"
+},
+{
+"id": "sahni",
+"nr": 19,
+"autoren": "Navdeep Sahni, Christian Wheeler, Pradeep Chintagunta",
+"titel": "Personalization in Email Marketing (Vorname im Betreff), Replikation",
+"jahr": 2018,
+"typ": "Feldexperiment",
+"url": "https://link.springer.com/article/10.1007/s11002-023-09701-7"
+},
+{
+"id": "kooti",
+"nr": 20,
+"autoren": "Farshad Kooti u. a.",
+"titel": "Evolution of Conversations in the Age of Email Overload (16 Mrd. Mails)",
+"jahr": 2015,
+"typ": "Beobachtungsstudie",
+"url": "https://arxiv.org/pdf/1504.00704"
+},
+{
+"id": "belkins",
+"nr": 21,
+"autoren": "Belkins, aufbereitet von Prospeo",
+"titel": "Follow-up-Auswertung von 16,5 Mio. Kaltakquise-Mails",
+"jahr": 2025,
+"typ": "Firmendaten",
+"url": "https://prospeo.io/s/follow-up-in-sales-process"
+},
+{
+"id": "althoff",
+"nr": 22,
+"autoren": "Tim Althoff, Cristian Danescu-Niculescu-Mizil, Dan Jurafsky",
+"titel": "How to Ask for a Favor: A Case Study on the Success of Altruistic Requests",
+"jahr": 2014,
+"typ": "Auswertung",
+"url": "https://arxiv.org/abs/1405.3282"
+}
+]

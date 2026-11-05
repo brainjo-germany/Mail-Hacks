@@ -1,0 +1,29 @@
+[
+{
+"id": "k1",
+"schritt_nr": 1,
+"schritt": "Erste Mail",
+"tag": 0,
+"kanal": "Mail",
+"inhalt": "Bitte mit Grund und einer konkreten Frage",
+"quelle": "belkins"
+},
+{
+"id": "k2",
+"schritt_nr": 2,
+"schritt": "Follow-up",
+"tag": 3,
+"kanal": "Mail im selben Verlauf",
+"inhalt": "Kurz, mit neuem Mehrwert statt „wollte nur nachhaken“",
+"quelle": "belkins"
+},
+{
+"id": "k3",
+"schritt_nr": 3,
+"schritt": "Kanalwechsel",
+"tag": 7,
+"kanal": "Telefon oder LinkedIn",
+"inhalt": "Nicht weiter mailen, sondern anrufen oder schreiben",
+"quelle": "belkins"
+}
+]
